@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <div className={styles.description}>
-        <p className="p-4">
+        <p className="mx-auto text-gray-400">
           Get started by editing&nbsp;
           <code className={styles.code}>src/app/page.tsx</code>
         </p>
